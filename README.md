@@ -1,2 +1,3 @@
 # first-git
-just first git
+只是第一个混帐
+我也是一点话都不想说的撒
